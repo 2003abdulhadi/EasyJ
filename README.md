@@ -7,7 +7,6 @@ The user will be able to visually route inheritance between classes, and will be
 The user will also be able to sketch out methods for classes with all the details.
 
 EasyJ defines a class "Class" (a little confusing, I know) that has two children.
-                      ^^ case sensitive
 Each EasyJ project only allows for a singular instance of a parentClass.
 Hence, it is coded as a singleton.
 subClasses are child Classes. They must have a defined parent of type Class.
